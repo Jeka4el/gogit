@@ -4,3 +4,4 @@ prive from linux 2 and privet from github
 Eto konflikt? GIT
 NET - GIT
 ETONET?
+Etoda?
